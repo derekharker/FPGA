@@ -1,0 +1,8 @@
+*.log
+*.pb
+*.lic
+*.txt
+xsim.dir/
+*.dcp
+*.Xil/
+*.jou
